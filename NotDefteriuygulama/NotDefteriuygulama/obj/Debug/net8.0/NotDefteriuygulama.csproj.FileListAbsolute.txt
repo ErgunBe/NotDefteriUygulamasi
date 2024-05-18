@@ -1,0 +1,14 @@
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\bin\Debug\net8.0\NotDefteriuygulama.exe
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\bin\Debug\net8.0\NotDefteriuygulama.deps.json
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\bin\Debug\net8.0\NotDefteriuygulama.runtimeconfig.json
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\bin\Debug\net8.0\NotDefteriuygulama.dll
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\bin\Debug\net8.0\NotDefteriuygulama.pdb
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\obj\Debug\net8.0\NotDefteriuygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\obj\Debug\net8.0\NotDefteriuygulama.AssemblyInfoInputs.cache
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\obj\Debug\net8.0\NotDefteriuygulama.AssemblyInfo.cs
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\obj\Debug\net8.0\NotDefteriuygulama.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\obj\Debug\net8.0\NotDefteriuygulama.dll
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\obj\Debug\net8.0\refint\NotDefteriuygulama.dll
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\obj\Debug\net8.0\NotDefteriuygulama.pdb
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\obj\Debug\net8.0\NotDefteriuygulama.genruntimeconfig.cache
+C:\Users\VULKAN\Desktop\udemy\NotDefteriuygulama\NotDefteriuygulama\obj\Debug\net8.0\ref\NotDefteriuygulama.dll
